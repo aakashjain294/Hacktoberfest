@@ -148,3 +148,8 @@
 - Place: India
 - Bio: Student
 - Github: [fleurdelis07](https://github.com/fleurdelis07)
+#### Name: Aakash Jain
+
+- Place: India
+- Bio: Student
+- Github: [aakashjain294](https://github.com/aakashjain294)
